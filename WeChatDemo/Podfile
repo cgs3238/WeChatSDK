@@ -1,0 +1,6 @@
+
+platform :ios, '6.0'
+inhibit_all_warnings!
+
+pod 'WeChatSDK', :git => 'https://github.com/Guicai-Li/WeChatSDK.git'
+

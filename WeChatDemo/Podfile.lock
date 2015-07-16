@@ -1,0 +1,19 @@
+PODS:
+  - WeChatSDK (1.5.1)
+
+DEPENDENCIES:
+  - WeChatSDK (from `https://github.com/Guicai-Li/WeChatSDK.git`)
+
+EXTERNAL SOURCES:
+  WeChatSDK:
+    :git: https://github.com/Guicai-Li/WeChatSDK.git
+
+CHECKOUT OPTIONS:
+  WeChatSDK:
+    :commit: 935ad2ba119cb84c4fc6d11783e6b8bb1e1d0a6b
+    :git: https://github.com/Guicai-Li/WeChatSDK.git
+
+SPEC CHECKSUMS:
+  WeChatSDK: d5510c24b72dbac751ff6cf45c9c13c0a59172f9
+
+COCOAPODS: 0.37.2
