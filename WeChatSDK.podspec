@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "WeChatSDK"
-  s.version      = "1.6.1"
+  s.version      = "1.6.2"
   s.summary      = "官方微信iOS SDK"
   s.description  = "微信开放平台SDK 持续更新"
   s.homepage     = "http://open.weixin.qq.com/"

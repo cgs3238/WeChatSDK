@@ -3,7 +3,7 @@
 
 ###微信官方客户端，和微信官方同步。
 
-#####最新为1.6.1版： https://open.weixin.qq.com/
+#####最新为1.6.2版： https://open.weixin.qq.com/
 
 ---
 
@@ -15,13 +15,22 @@ pod 'WeChatSDK', :git => 'https://github.com/Guicai-Li/WeChatSDK.git'
 ---
 
 ###历史
-重要!
+
+SDK1.6.2
+
+1、xCode7.1 构建的sdk包
+
+2、请使用xCode7.1进行编译
+
+---
 
 SDK1.6.1
 
 1、修复armv7s下,bitcode可能编译不过
 
 2、解决warning
+
+---
 
 SDK1.6
 
@@ -45,6 +54,8 @@ SDK1.6
 2、开发者需要在工程中链接上 CoreTelephony.framework
 
 3、解决bitcode编译不过问题
+
+---
 
 SDK1.5
 
