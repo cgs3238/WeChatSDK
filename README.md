@@ -1,5 +1,5 @@
 
-#DXYWeChatSDK
+#WeChatSDK
 
 ###微信官方客户端，和微信官方同步。
 
