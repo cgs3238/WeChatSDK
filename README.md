@@ -3,18 +3,35 @@
 
 ###微信官方客户端，和微信官方同步。
 
-#####最新为1.6.2版： https://open.weixin.qq.com/
+#####最新为1.7.2版： https://open.weixin.qq.com/
 
 ---
 
 ###如何使用？
-pod 'WeChatSDK', :git => 'https://github.com/Guicai-Li/WeChatSDK.git'
+pod 'WeChatSDK', :git => 'https://github.com/cgs3238/WeChatSDK.git'
 
 
 
 ---
 
 ###历史
+
+SDK1.7.2
+1. 修复因CTTeleponyNetworkInfo引起的崩溃问题
+
+SDK1.7.1
+1. 支持兼容ipv6(提升稳定性)
+2. xCode Version 7.3.1 (7D1014) 编译
+
+SDK1.7
+1. 支持兼容ipv6
+2. 修复若干问题增强稳定性
+
+SDK1.6.3
+1. xCode7.2 构建的sdk包。
+2. 请使用xCode7.2进行编译。
+3. 需要在Build Phases中Link  Security.framework
+4. 修复若干小问题。
 
 SDK1.6.2
 
